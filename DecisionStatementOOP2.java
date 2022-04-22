@@ -38,6 +38,17 @@ public class TugasOOP2 {
         }
         System.out.println(" ");
 
+        // nested if 
+        byte angka1 = 70;
+        byte angka2 = 40;
+        byte angka3 = 45;
+        if (angka1 >= 70 && angka2 >= 40){
+            System.out.println("kerja bagus, anda lulus");
+            if (angka3 == 45);{
+                System.out.println("nilai pas rata-rata");
+            }
+        }
+        
         //Switch
         int umur;
         System.out.print("Masukan angka kurang dari 15 : ");
