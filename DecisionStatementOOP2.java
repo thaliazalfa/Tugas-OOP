@@ -54,14 +54,7 @@ public class TugasOOP2 {
                 System.out.println("Umur kamu pas!");
                 break;
         }
-        System.out.println(" ");
-
-        //for looping
-        for (int i = 1; i<=3; i++){
-            System.out.println( "urutan ke-" + i );
-
-        }
-
+        
 
     }
 }
