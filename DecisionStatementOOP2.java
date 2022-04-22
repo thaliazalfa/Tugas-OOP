@@ -4,6 +4,8 @@ public class TugasOOP2 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        
+        
         //if-else condition
         int score;
 
@@ -17,6 +19,8 @@ public class TugasOOP2 {
         }
         System.out.println(" ");
 
+        
+        
         //if - else if
         String nama;
         byte nilai;
@@ -38,6 +42,8 @@ public class TugasOOP2 {
         }
         System.out.println(" ");
 
+        
+        
         // nested if 
         byte angka1 = 70;
         byte angka2 = 40;
@@ -48,6 +54,8 @@ public class TugasOOP2 {
                 System.out.println("nilai pas rata-rata");
             }
         }
+        
+        
         
         //Switch
         int umur;
